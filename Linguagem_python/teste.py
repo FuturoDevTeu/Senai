@@ -1,1 +1,0 @@
-print('Nome ||', ' ' * 10, 'Preco')
