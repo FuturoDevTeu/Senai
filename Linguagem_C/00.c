@@ -192,4 +192,8 @@ int main(){
 	
 	
 	
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> refs/remotes/origin/main
