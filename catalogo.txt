@@ -1,0 +1,4 @@
+Nome do livro: eu robo
+Nome do autor: francile 
+Categoria: +52
+Preco: 9000 
